@@ -1,6 +1,6 @@
 # Hi there, I'm Ashkan Selahvarzi! 👋
 
-I’m a passionate and creative **.NET developer** with expertise in crafting applications across **Windows**, **Android**, and the **Web**. I began my programming journey in **2014**, and have since honed my skills in C#, .NET frameworks, and design tools.:contentReference[oaicite:0]{index=0}
+I’m a passionate and creative **.NET developer** with expertise in crafting applications across **Windows**, **Android**, and the **Web**. I began my programming journey in **2014**, and have since honed my skills in C#, .NET frameworks, and design tools.
 
 ---
 
@@ -8,16 +8,16 @@ I’m a passionate and creative **.NET developer** with expertise in crafting ap
 
 | Platform     | Tools & Technologies                          | Sample Projects                     |
 |--------------|-----------------------------------------------|-------------------------------------|
-| **Desktop**  | .NET MAUI, WinForms (C#)                      | SLVZ OneApi, SLVZ Projects, SDM     :contentReference[oaicite:1]{index=1} |
-| **Mobile**   | .NET MAUI, Xamarin (C#)                       | SLVZ Messenger, Rights and Salary, Flashcards (ML-powered) :contentReference[oaicite:2]{index=2} |
-| **Web / Cloud** | ASP.NET, Blazor (C#)                      | Various web apps and APIs           :contentReference[oaicite:3]{index=3} |
+| **Desktop**  | .NET MAUI, WinForms (C#)                      | SLVZ OneApi, SLVZ Projects, SDM     |
+| **Mobile**   | .NET MAUI, Xamarin (C#)                       | SLVZ Messenger, Rights and Salary, Flashcards (ML-powered) |
+| **Web / Cloud** | ASP.NET, Blazor (C#)                      | Various web apps and APIs            |
 
 ---
 
 ##  About Me
 
-- I specialize in **C#** and the .NET ecosystem — including **Blazor**, **ASP.NET**, **MAUI**, and **Xamarin**.:contentReference[oaicite:4]{index=4}
-- I’m passionate about creating **user-friendly experiences**, combining both technical and design elements with tools like **Photoshop**, **Illustrator**, and **After Effects**.:contentReference[oaicite:5]{index=5}
+- I specialize in **C#** and the .NET ecosystem — including **Blazor**, **ASP.NET**, **MAUI**, and **Xamarin**.
+- I’m passionate about creating **user-friendly experiences**, combining both technical and design elements with tools like **Photoshop**, **Illustrator**, and **After Effects**.{index=5}
 - My goal? To push the boundaries of technology while crafting visually appealing and functional applications.
 
 ---
