@@ -1,6 +1,6 @@
 # Hi there, I'm Ashkan Selahvarzi! 👋
 
-I’m a passionate and creative **.NET developer** with expertise in crafting applications across **Windows**, **Android**, and the **Web**. I began my programming journey in **2014**, and have since honed my skills in C#, .NET frameworks, and design tools.
+I’m a passionate and creative **.NET developer** with expertise in crafting applications across **Windows**, **Android**, and the **Web**. I began my programming journey in **2014**, and have since honed my skills in C#, .NET, and design tools.
 
 ---
 
