@@ -17,7 +17,7 @@ I’m a passionate and creative **.NET developer** with expertise in crafting ap
 ##  About Me
 
 - I specialize in **C#** and the .NET ecosystem — including **Blazor**, **ASP.NET**, **MAUI**, and **Xamarin**.
-- I’m passionate about creating **user-friendly experiences**, combining both technical and design elements with tools like **Photoshop**, **Illustrator**, and **After Effects**.{index=5}
+- I’m passionate about creating **user-friendly experiences**, combining both technical and design elements with tools like **Photoshop**, **Illustrator**, and **After Effects**.
 - My goal? To push the boundaries of technology while crafting visually appealing and functional applications.
 
 ---
@@ -33,12 +33,7 @@ Want to explore my apps or collaborate?
 
 ##  Fun Fact
 
-Over **20,000 users** across platforms have interacted with my applications!:contentReference[oaicite:6]{index=6}
-
----
-
-**TL;DR:**  
-**.NET developer (2014–present)** | **C# & .NET expert** | **Design-minded** | **Windows, Android & Web apps creator** | **20K+ users**
+Over **20,000 users** across platforms have interacted with my applications!
 
 ---
 
