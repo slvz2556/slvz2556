@@ -27,7 +27,7 @@ I’m a passionate and creative **.NET developer** with expertise in crafting ap
 Want to explore my apps or collaborate?
 - Visit my website: [slvz.dev](https://slvz.dev)  
 - Get my resume / message me via social platforms  
-- Find my apps on platforms like Google Play, SLVZ Store, Myket
+- Find my apps on platforms like Microsoft store, Google Play, SLVZ Store
 
 ---
 
