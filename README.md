@@ -1,4 +1,4 @@
-![SLVZ Preview](./header.webp)
+![SLVZ Preview](./header.png)
 
 # Hi there, I'm Ashkan Selahvarzi! 👋
 
