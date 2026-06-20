@@ -8,8 +8,8 @@ I’m a passionate and creative **.NET developer** with expertise in crafting ap
 
 | Platform     | Tools & Technologies                          | Sample Projects                     |
 |--------------|-----------------------------------------------|-------------------------------------|
-| **Desktop**  | .NET MAUI, WinForms (C#)                      | SLVZ OneApi, SLVZ Projects, SDM     |
-| **Mobile**   | .NET MAUI, Xamarin (C#)                       | SLVZ Messenger, Rights and Salary, Flashcards (ML-powered) |
+| **Desktop**  | .NET MAUI, WinForms (C#)                      | OneApi, LangCraft, Projects     |
+| **Mobile**   | .NET MAUI, Xamarin (C#)                       | OneApi, Hoghoogh Yar, Notepad |
 | **Web / Cloud** | ASP.NET, Blazor (C#)                      | Various web apps and APIs            |
 
 ---
