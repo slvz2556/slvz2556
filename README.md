@@ -1,42 +1,65 @@
 ![SLVZ](./header.jpg)
 
-# Hi there, I'm Ashkan Selahvarzi! 👋
 
-I’m a passionate and creative **.NET developer** with expertise in crafting applications across **Windows**, **Android**, and the **Web**. I began my programming journey in **2014**, and have since honed my skills in C#, .NET, and design tools.
+<div align="center">
 
----
 
-##  What I Build
+# Hi, I'm Ashkan Selahvarzi 👋
 
-| Platform     | Tools & Technologies                          | Sample Projects                     |
-|--------------|-----------------------------------------------|-------------------------------------|
-| **Desktop**  | .NET MAUI (C#)                                | OneApi, LangCraft, Projects         |
-| **Mobile**   | .NET MAUI (C#)                                | OneApi, Hoghoogh Yar, Notepad       |
-| **Web / Cloud** | ASP.NET, Blazor (C#)                       | Various web apps and APIs           |
+### Solo .NET Developer
 
----
 
-##  About Me
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-- I specialize in **C#** and the .NET ecosystem — including **Blazor**, **ASP.NET**, **MAUI**, and **Xamarin**.
-- I’m passionate about creating **user-friendly experiences**, combining both technical and design elements with tools like **Photoshop**, **Illustrator**, and **After Effects**.
-- My goal? To push the boundaries of technology while crafting visually appealing and functional applications.
+![C#](https://img.shields.io/badge/C%23-2C3E91?style=for-the-badge&logo=csharp&logoColor=white)
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+
+</div>
+
 
 ---
 
-##  Let’s Connect!
 
-Want to explore my apps or collaborate?
-- Visit my website: [slvz.dev](https://slvz.dev)  
-- Get my resume / message me via social platforms  
-- Find my apps on platforms like Microsoft store, Google Play, SLVZ Store
+I build complete apps on my own — from idea to architecture to a published product. Since **2014** I've worked in the .NET ecosystem, mainly with **C#** and **.NET MAUI Blazor Hybrid**, shipping apps that have reached **20,000+ users** across Windows, Android, and the Web.
 
----
 
-##  Fun Fact
+No team, no handoffs — just me designing, coding, and releasing.
 
-Over **20,000 users** across platforms have interacted with my applications!
 
 ---
 
-Thanks for stopping by — I'm always open to new ideas and opportunities. Let’s build something awesome together!  
+
+### What I Build
+
+
+- 📱 **Mobile** — .NET MAUI Blazor Hybrid apps for Android
+
+- 🖥️ **Desktop** — .NET MAUI apps for Windows
+
+- 🌐 **Web** — ASP.NET & Blazor apps and APIs
+
+
+**Some of my projects:** OneApi · LangCraft · Hoghoogh Yar · Notepad
+
+
+---
+
+
+### Connect
+
+
+<div align="center">
+
+
+[![Website](https://img.shields.io/badge/slvz.dev-512BD4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://slvz.dev)
+
+[![Google Play](https://img.shields.io/badge/Google_Play-3DDC84?style=for-the-badge&logo=googleplay&logoColor=white)](#)
+
+[![Microsoft Store](https://img.shields.io/badge/Microsoft_Store-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](#)
+
+
+</div>
+
+
